@@ -1,0 +1,14 @@
+C:\Users\Filip\source\repos\Hotel Reservation System\Hotel Reservation System\obj\Debug\Hotel Reservation System.csproj.AssemblyReference.cache
+C:\Users\Filip\source\repos\Hotel Reservation System\Hotel Reservation System\obj\Debug\Hotel_Reservation_System.LoginForm.resources
+C:\Users\Filip\source\repos\Hotel Reservation System\Hotel Reservation System\obj\Debug\Hotel_Reservation_System.Properties.Resources.resources
+C:\Users\Filip\source\repos\Hotel Reservation System\Hotel Reservation System\obj\Debug\Hotel_Reservation_System.UserForm.resources
+C:\Users\Filip\source\repos\Hotel Reservation System\Hotel Reservation System\obj\Debug\Hotel Reservation System.csproj.GenerateResource.cache
+C:\Users\Filip\source\repos\Hotel Reservation System\Hotel Reservation System\obj\Debug\Hotel Reservation System.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Hotel Reservation System\Hotel Reservation System\obj\Debug\Hotel_Reservation_System.EmployeeForm.resources
+C:\Users\Filip\source\repos\Hotel Reservation System\Hotel Reservation System\bin\Debug\Hotel Reservation System.exe.config
+C:\Users\Filip\source\repos\Hotel Reservation System\Hotel Reservation System\bin\Debug\Hotel Reservation System.exe
+C:\Users\Filip\source\repos\Hotel Reservation System\Hotel Reservation System\bin\Debug\Hotel Reservation System.pdb
+C:\Users\Filip\source\repos\Hotel Reservation System\Hotel Reservation System\obj\Debug\Hotel Reservation System.exe
+C:\Users\Filip\source\repos\Hotel Reservation System\Hotel Reservation System\obj\Debug\Hotel Reservation System.pdb
+C:\Users\Filip\source\repos\Hotel Reservation System\Hotel Reservation System\bin\Debug\HotelReservationDB.mdf
+C:\Users\Filip\source\repos\Hotel Reservation System\Hotel Reservation System\bin\Debug\HotelReservationDB_log.ldf
